@@ -154,3 +154,44 @@ C:\Pluralsight\Courses\Improving MVC\mvc-applications-10-extension-points-improv
 C:\Pluralsight\Courses\Improving MVC\mvc-applications-10-extension-points-improving-m2\Demos\Start\Starting Paladin MVC Project\Paladin\Paladin\bin\System.Web.WebPages.Razor.xml
 C:\Pluralsight\Courses\Improving MVC\mvc-applications-10-extension-points-improving-m2\Demos\Start\Starting Paladin MVC Project\Paladin\Paladin\bin\Antlr3.Runtime.pdb
 C:\Pluralsight\Courses\Improving MVC\mvc-applications-10-extension-points-improving-m2\Demos\Start\Starting Paladin MVC Project\Paladin\Paladin\bin\Newtonsoft.Json.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\WebApplication1.dll.config
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\WebApplication1.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\WebApplication1.pdb
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\Antlr3.Runtime.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\AutoMapper.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\EntityFramework.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\EntityFramework.SqlServer.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\Microsoft.Web.Infrastructure.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\Newtonsoft.Json.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\Ninject.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\Ninject.Web.Common.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\Ninject.Web.Mvc.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.Helpers.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.Mvc.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.Optimization.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.Razor.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.WebPages.Deployment.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.WebPages.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.WebPages.Razor.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\WebActivatorEx.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\WebGrease.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\AutoMapper.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\EntityFramework.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\EntityFramework.SqlServer.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\Ninject.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\Ninject.Web.Common.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\Ninject.Web.Mvc.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.Helpers.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.Mvc.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.Optimization.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.Razor.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.WebPages.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.WebPages.Deployment.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\System.Web.WebPages.Razor.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\Antlr3.Runtime.pdb
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\Newtonsoft.Json.xml
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\obj\Debug\PaladinInsurance.csproj.AssemblyReference.cache
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\obj\Debug\PaladinInsurance.csproj.CoreCompileInputs.cache
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\obj\Debug\PaladinInsurance.csproj.CopyComplete
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\obj\Debug\WebApplication1.dll
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\obj\Debug\WebApplication1.pdb
