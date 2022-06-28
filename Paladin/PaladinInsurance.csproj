@@ -150,6 +150,7 @@
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Infrastructure\RazorWorkflowExtensions.cs" />
+    <Compile Include="Infrastructure\ThemeEngine.cs" />
     <Compile Include="Infrastructure\WorkflowFilter.cs" />
     <Compile Include="Infrastructure\CSVResult.cs" />
     <Compile Include="Infrastructure\WorkflowValues.cs" />
@@ -259,6 +260,10 @@
     <Content Include="Views\Address\AddressInfo.cshtml" />
     <Content Include="Views\Home\Final.cshtml" />
     <Content Include="Views\Home\Clear.cshtml" />
+    <Content Include="Views\Themes\Vertical\Applicant\ApplicantInfo.cshtml" />
+    <Content Include="Views\Themes\Vertical\Shared\ProgressBar.cshtml" />
+    <Content Include="Views\Themes\Vertical\Shared\_Layout.cshtml" />
+    <Content Include="Views\Themes\Vertical\_ViewStart.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
