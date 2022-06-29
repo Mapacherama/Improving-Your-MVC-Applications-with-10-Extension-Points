@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Paladin.Models;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel.DataAnnotations;
 using System.Linq;
@@ -6,8 +7,9 @@ using System.Text;
 
 namespace Paladin.ViewModels
 {
-    public class AddressVM
+    public class AddressVM: LogData
     {
+        public string UserAgent { get; set; }
         [Display(Name = "Street Address")]
         [Required]
         public string StreetAddress { get; set; }

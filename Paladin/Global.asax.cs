@@ -26,6 +26,8 @@ namespace Paladin
 
             ModelBinderProviders.BinderProviders.Insert(0, new XMLModelBinderProvider());
 
+            ValueProviderFactories.Factories.Insert(0, new HttpValueProviderFactory());
+
             AreaRegistration.RegisterAllAreas();
             FilterConfig.RegisterGlobalFilters(GlobalFilters.Filters);
             RouteConfig.RegisterRoutes(RouteTable.Routes);
