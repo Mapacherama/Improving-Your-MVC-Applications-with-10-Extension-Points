@@ -1,12 +1,13 @@
 ﻿using Paladin.Models;
 using System;
 using System.Collections.Generic;
+using System.ComponentModel.DataAnnotations;
 using System.Linq;
 using System.Web;
 
 namespace Paladin.ViewModels
 {
-    public class Employments
+    public class Employments : IValidatableObject
     {
         public Employments()
         {
@@ -15,5 +16,28 @@ namespace Paladin.ViewModels
         }
         public EmploymentVM PrimaryEmployer { get; set; }
         public EmploymentVM PreviousEmployer { get; set; }
+
+        public IEnumerable<ValidationResult> Validate(ValidationContext validationContext)
+        {
+            var results = new List<ValidationResult>();
+
+            if (PrimaryEmployer.StartDate > DateTime.Now.AddYears(-3))
+            {
+                if (PreviousEmployer.EmploymentType != "Unemployed")
+                {
+                    if (string.IsNullOrEmpty(PreviousEmployer.Employer))
+                    {
+                        results.Add(new ValidationResult("Previous employer is required."));
+                    }
+
+                    if (string.IsNullOrEmpty(PreviousEmployer.Position))
+                    {
+                        results.Add(new ValidationResult("Previous position is required."));
+                    }
+                }
+            }
+
+            return results;
+        }
     }
 }
