@@ -1,4 +1,5 @@
-﻿using Paladin.Models;
+﻿using Paladin.Infrastructure;
+using Paladin.Models;
 using System;
 using System.Collections.Generic;
 using System.IO;
@@ -9,6 +10,7 @@ using System.Xml.Serialization;
 
 namespace Paladin.Controllers
 {
+    [HttpAuthenticate("EAdmin", "Testing123")]
     public class EMarketingController : Controller
     {
         private PaladinDbContext _context;
