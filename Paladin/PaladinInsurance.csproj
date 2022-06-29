@@ -46,6 +46,9 @@
     <Reference Include="AutoMapper">
       <HintPath>..\packages\AutoMapper.4.0.4\lib\net45\AutoMapper.dll</HintPath>
     </Reference>
+    <Reference Include="Elmah, Version=1.2.14706.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\packages\elmah.corelibrary.1.2.2\lib\Elmah.dll</HintPath>
+    </Reference>
     <Reference Include="EntityFramework">
       <HintPath>..\packages\EntityFramework.6.1.3\lib\net45\EntityFramework.dll</HintPath>
     </Reference>
@@ -149,6 +152,7 @@
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
+    <Compile Include="Infrastructure\ExceptionLoggingFilter.cs" />
     <Compile Include="Infrastructure\RazorWorkflowExtensions.cs" />
     <Compile Include="Infrastructure\ThemeEngine.cs" />
     <Compile Include="Infrastructure\WorkflowFilter.cs" />
@@ -157,6 +161,7 @@
     <Compile Include="Infrastructure\XMLResult.cs" />
     <Compile Include="Models\Address.cs" />
     <Compile Include="Models\Employment.cs" />
+    <Compile Include="Models\ErrorLog.cs" />
     <Compile Include="Models\PaladinDbContext.cs" />
     <Compile Include="Models\Products.cs" />
     <Compile Include="Models\Progress.cs" />

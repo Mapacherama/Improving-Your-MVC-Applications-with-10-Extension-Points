@@ -195,3 +195,4 @@ D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Pal
 D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\obj\Debug\PaladinInsurance.csproj.CopyComplete
 D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\obj\Debug\WebApplication1.dll
 D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\obj\Debug\WebApplication1.pdb
+D:\.NET development\Improving-Your-MVC-Applications-with-10-Extension-Points\Paladin\bin\Elmah.dll

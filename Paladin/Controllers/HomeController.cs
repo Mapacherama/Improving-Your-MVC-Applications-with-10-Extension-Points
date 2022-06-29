@@ -23,6 +23,12 @@ namespace Paladin.Controllers
             return View();
         }
 
+        public ActionResult Error()
+        {
+            var test = int.Parse("test");
+            return View();
+        }
+
         public ActionResult About()
         {
             ViewBag.Message = "Your application description page.";
@@ -61,7 +67,7 @@ namespace Paladin.Controllers
             {
                 return PartialView(new Progress { CurrentStage = 10, HighestStage = 10 });
             }
-            return PartialView();
+            /*return PartialView();*/
         }
     }
 }
