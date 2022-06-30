@@ -1,4 +1,5 @@
 ﻿using AutoMapper;
+using Paladin.Controllers;
 using Paladin.Infrastructure;
 using Paladin.Models;
 using Paladin.ViewModels;
@@ -12,7 +13,7 @@ using System.Web.Mvc;
 
 namespace Paladin.Areas.Admin.Controllers
 {
-    public class DataExportController : Controller
+    public class DataExportController : PaladinController
     {
         private PaladinDbContext _context;
 
@@ -35,7 +36,7 @@ namespace Paladin.Areas.Admin.Controllers
                 mappedApplicants.Add(Mapper.Map<ApplicantVM>(app));
             }
 
-            return new CSVResult(mappedApplicants, "TestCSV");
+            return new CSV(mappedApplicants);
         }
 
         
